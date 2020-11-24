@@ -3,9 +3,9 @@ title: "Module 2 - RMarkDown Document 1"
 author: "Marco Mello"
 date: "11/24/2020"
 output:
-  html_document: default
   pdf_document: default
   word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
